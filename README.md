@@ -33,7 +33,7 @@ square_array(new_numbers)
 # => [81,100,256,625]
 ```
 
-## Resources
+## Resourcesnbbnnnnn nbbbbbb
 
 * [Ruby Docs](http://www.ruby-doc.org/core-2.1.2/) - [Each Method](https://ruby-doc.org/core-2.6.3/Array.html#method-i-each)
 
